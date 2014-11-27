@@ -21,7 +21,7 @@ La clé DOIT contenir les quatre éléments suivants, séparés par des
 * le code FANTOIR de la voie ou du lieu-dit, en lettres capitales (OBLIGATOIRE,
   se référer à «Format temporaire» pour le cas où FANTOIR n'est pas attribué)
 * numéro de l'adresse (OPTIONNEL)
-* indice de répétition, en lettres capitales sans signe diacritique
+* indice de répétition complet (voir premier exemple), en lettres capitales sans signe diacritique
   ni aucun caractère non alphanumérique (OPTIONNEL)
 
 Les éléments vides DOIVENT être présents dans la clé sous forme d'emplacements
