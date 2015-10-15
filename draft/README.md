@@ -46,6 +46,7 @@ FANTOIR par un élément temporaire composé comme suit:
     - NE DOIT PAS contenir de caractère non alphanumérique
     - DOIT être tout en lettres capitales
     - les nombres DEVRAIENT être écrits en chiffres
+    - DOIT être capé à 50 caractères
 
 ### Exemples
 
